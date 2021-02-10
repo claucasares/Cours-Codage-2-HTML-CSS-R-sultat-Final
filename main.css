@@ -1,0 +1,87 @@
+
+
+body{
+    font-family: "Roboto";
+    
+
+}
+
+head{
+	color: red;
+    font-family: "Roboto";
+    font-size: 50px;
+
+}
+
+#div2{
+	color: black;
+}
+
+header{
+  background: rgb(245,245,245);
+  color: black;
+  font-size: 25px;
+  font-family: "Helvetica";
+}
+h1{
+  font-family: "Roboto";
+  color: black;
+  font-weight: lighter;
+  font-size: 50px;
+}
+
+h2 {
+  font-family: "Courier";
+  color: grey;
+  font-weight: lighter;
+  font-size: 22px;
+}
+
+li {
+  font-family: "Helvetica";
+  color: grey;
+  font-weight: lighter;
+  font-size: 14px;
+}
+
+
+h3 {
+  font-family: "Roboto";
+  color: black;
+  font-weight: lighter;
+  font-size: 32px;
+}
+a {
+  color: yellow;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+.box {
+        border: 2px solid #000000;
+        width: 1000px;
+        background: #FAFAFA;
+
+        margin: 25px;
+        padding: 15px 0;
+        text-align: center;
+
+    }
+
+.Printemps{
+ color: green;
+}
+
+.Ete{
+ color: orange;
+}
+
+.Automne{
+ color: brown;
+}
+
+.Hiver{
+ color: blue;
+}
+
